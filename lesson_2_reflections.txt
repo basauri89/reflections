@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	We create a local file wich stores the links to the files related to the repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	it offers kind of a buffer were we can select which files from the working directory are going to be commited. It offers the ability to chunk the commit depending on the logical changes.
